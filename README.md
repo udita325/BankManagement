@@ -1,6 +1,11 @@
-The main aim of designing and developing this banking System primarily based Engineering project is to provide secure and efficient net banking facilities
- •     to the banking customers. Core java, MYSQL database are used to develop this bank application where all banking customers can login through the
- •     secured web page by their account login id and password. This system has functionalities like opening bank account, deposit money, withdrawal, mini
- •     statement, pin change and all are shown to the user via an ATM stimulator.
- •     • It is a desktop based application.
- •     • Technologies used - core Java, MySQL database.
+## 🏦 Bank Management System
+A desktop-based Java + MySQL project that provides secure net banking features such as:
+- Account login and password authentication
+- Deposit, withdrawal, and mini-statement
+- Pin change and account details view
+
+### 🛠 Technologies Used
+- Core Java (Swing / AWT)
+- MySQL Database
+- JDBC Connector
+
